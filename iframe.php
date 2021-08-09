@@ -1,0 +1,1 @@
+<!DOCTYPE html><html><?php echo file_get_contents($_REQUEST['http://localhost:8889/']); ?></html>
